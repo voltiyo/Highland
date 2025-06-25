@@ -1,0 +1,142 @@
+1750849117
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:8:"about-us";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:7:{s:5:"title";s:8:"About Us";s:10:"page_title";s:20:"About Us - Highlands";s:9:"mainImage";a:1:{s:44:"theme://media/images/urbanUrban-KAT-651.webp";a:4:{s:4:"name";s:23:"urbanUrban-KAT-651.webp";s:4:"type";s:10:"image/webp";s:4:"size";i:659256;s:4:"path";s:44:"theme://media/images/urbanUrban-KAT-651.webp";}}s:10:"paragraphs";a:3:{i:0;a:2:{s:4:"text";s:249:"Urban Landscapes is the outcome of a talented and passionate team of qualified individuals with over a decade of project experience in the Middle East. We pride ourselves on delivering premium landscape solutions to clients across Dubai and the UAE.";s:4:"bold";b:0;}i:1;a:2:{s:4:"text";s:399:"Passion for designing and building inspiring garden spaces, and commitment towards delivering extraordinary experiences to our customers is at the heart of who we are, and what we do. We take pride in our ability to listen to our clients and understand their needs. From design briefs, through to job completion, and continual garden maintenance, we offer our clients a complete landscaping service.";s:4:"bold";b:1;}i:2;a:2:{s:4:"text";s:165:"Our extensive portfolio demonstrates our ability to work with a variety of styles, deliver creative designs and build beautiful yet functional outdoor living spaces.";s:4:"bold";b:1;}}s:8:"counters";a:3:{i:0;a:2:{s:5:"label";s:7:"clients";s:6:"number";s:3:"491";}i:1;a:2:{s:5:"label";s:7:"Designs";s:6:"number";s:3:"156";}i:2;a:2:{s:5:"label";s:5:"Built";s:6:"number";s:3:"404";}}s:4:"team";a:10:{i:0;a:3:{s:4:"name";s:12:"David Harper";s:4:"role";s:15:"General Manager";s:5:"image";a:1:{s:40:"theme://media/images/Daryl-768x1024.webp";a:4:{s:4:"name";s:19:"Daryl-768x1024.webp";s:4:"type";s:10:"image/webp";s:4:"size";i:68874;s:4:"path";s:40:"theme://media/images/Daryl-768x1024.webp";}}}i:1;a:3:{s:4:"name";s:12:"Sunil Deokar";s:4:"role";s:17:"Contracts Manager";s:5:"image";a:1:{s:77:"theme://media/images/urbanWhatsApp-Image-2024-02-19-at-15.00.04-768x1024.webp";a:4:{s:4:"name";s:56:"urbanWhatsApp-Image-2024-02-19-at-15.00.04-768x1024.webp";s:4:"type";s:10:"image/webp";s:4:"size";i:46160;s:4:"path";s:77:"theme://media/images/urbanWhatsApp-Image-2024-02-19-at-15.00.04-768x1024.webp";}}}i:2;a:3:{s:4:"name";s:12:"Madiha Zafar";s:4:"role";s:10:"HR Manager";s:5:"image";a:1:{s:41:"theme://media/images/madiha-768x1024.webp";a:4:{s:4:"name";s:20:"madiha-768x1024.webp";s:4:"type";s:10:"image/webp";s:4:"size";i:105322;s:4:"path";s:41:"theme://media/images/madiha-768x1024.webp";}}}i:3;a:3:{s:4:"name";s:10:"Sunil Nair";s:4:"role";s:18:"Operations Manager";s:5:"image";a:1:{s:39:"theme://media/images/nair-768x1024.webp";a:4:{s:4:"name";s:18:"nair-768x1024.webp";s:4:"type";s:10:"image/webp";s:4:"size";i:39224;s:4:"path";s:39:"theme://media/images/nair-768x1024.webp";}}}i:4;a:3:{s:4:"name";s:15:"Kenneth Seraspi";s:4:"role";s:14:"Design Manager";s:5:"image";a:1:{s:42:"theme://media/images/kenneth-768x1024.webp";a:4:{s:4:"name";s:21:"kenneth-768x1024.webp";s:4:"type";s:10:"image/webp";s:4:"size";i:85856;s:4:"path";s:42:"theme://media/images/kenneth-768x1024.webp";}}}i:5;a:3:{s:4:"name";s:14:"Mohammad Tahir";s:4:"role";s:19:"Maintenance Manager";s:5:"image";a:1:{s:40:"theme://media/images/tahir-768x1024.webp";a:4:{s:4:"name";s:19:"tahir-768x1024.webp";s:4:"type";s:10:"image/webp";s:4:"size";i:107212;s:4:"path";s:40:"theme://media/images/tahir-768x1024.webp";}}}i:6;a:3:{s:4:"name";s:13:"Nuthan Shetty";s:4:"role";s:16:"Accounts Manager";s:5:"image";a:1:{s:41:"theme://media/images/nuthan-768x1024.webp";a:4:{s:4:"name";s:20:"nuthan-768x1024.webp";s:4:"type";s:10:"image/webp";s:4:"size";i:87894;s:4:"path";s:41:"theme://media/images/nuthan-768x1024.webp";}}}i:7;a:3:{s:4:"name";s:8:"Pran Raj";s:4:"role";s:18:"Estimation Manager";s:5:"image";a:1:{s:39:"theme://media/images/pran-768x1024.webp";a:4:{s:4:"name";s:18:"pran-768x1024.webp";s:4:"type";s:10:"image/webp";s:4:"size";i:90770;s:4:"path";s:39:"theme://media/images/pran-768x1024.webp";}}}i:8;a:3:{s:4:"name";s:12:"Ramanathan M";s:4:"role";s:10:"QS Manager";s:5:"image";a:1:{s:38:"theme://media/images/ram-768x1024.webp";a:4:{s:4:"name";s:17:"ram-768x1024.webp";s:4:"type";s:10:"image/webp";s:4:"size";i:54594;s:4:"path";s:38:"theme://media/images/ram-768x1024.webp";}}}i:9;a:3:{s:4:"name";s:13:"Daryl Justine";s:4:"role";s:26:"Senior Landscape Architect";s:5:"image";a:1:{s:42:"theme://media/images/justine-768x1024.webp";a:4:{s:4:"name";s:21:"justine-768x1024.webp";s:4:"type";s:10:"image/webp";s:4:"size";i:76772;s:4:"path";s:42:"theme://media/images/justine-768x1024.webp";}}}}s:12:"certificates";a:3:{i:0;a:1:{s:5:"image";a:1:{s:70:"theme://media/images/QMS-URBAN-LANDSCAPING-KAQM202405001-724x1024.webp";a:4:{s:4:"name";s:49:"QMS-URBAN-LANDSCAPING-KAQM202405001-724x1024.webp";s:4:"type";s:10:"image/webp";s:4:"size";i:63816;s:4:"path";s:70:"theme://media/images/QMS-URBAN-LANDSCAPING-KAQM202405001-724x1024.webp";}}}i:1;a:1:{s:5:"image";a:1:{s:70:"theme://media/images/EMS-URBAN-LANDSCAPING-KAEM202405001-724x1024.webp";a:4:{s:4:"name";s:49:"EMS-URBAN-LANDSCAPING-KAEM202405001-724x1024.webp";s:4:"type";s:10:"image/webp";s:4:"size";i:63892;s:4:"path";s:70:"theme://media/images/EMS-URBAN-LANDSCAPING-KAEM202405001-724x1024.webp";}}}i:2;a:1:{s:5:"image";a:1:{s:70:"theme://media/images/OHS-URBAN-LANDSCAPING-KAOH202405001-724x1024.webp";a:4:{s:4:"name";s:49:"OHS-URBAN-LANDSCAPING-KAOH202405001-724x1024.webp";s:4:"type";s:10:"image/webp";s:4:"size";i:64694;s:4:"path";s:70:"theme://media/images/OHS-URBAN-LANDSCAPING-KAOH202405001-724x1024.webp";}}}}}s:11:"frontmatter";s:5591:"title: 'About Us'
+page_title: 'About Us - Highlands'
+mainImage:
+    'theme://media/images/urbanUrban-KAT-651.webp':
+        name: urbanUrban-KAT-651.webp
+        type: image/webp
+        size: 659256
+        path: 'theme://media/images/urbanUrban-KAT-651.webp'
+paragraphs:
+    -
+        text: 'Urban Landscapes is the outcome of a talented and passionate team of qualified individuals with over a decade of project experience in the Middle East. We pride ourselves on delivering premium landscape solutions to clients across Dubai and the UAE.'
+        bold: false
+    -
+        text: 'Passion for designing and building inspiring garden spaces, and commitment towards delivering extraordinary experiences to our customers is at the heart of who we are, and what we do. We take pride in our ability to listen to our clients and understand their needs. From design briefs, through to job completion, and continual garden maintenance, we offer our clients a complete landscaping service.'
+        bold: true
+    -
+        text: 'Our extensive portfolio demonstrates our ability to work with a variety of styles, deliver creative designs and build beautiful yet functional outdoor living spaces.'
+        bold: true
+counters:
+    -
+        label: clients
+        number: '491'
+    -
+        label: Designs
+        number: '156'
+    -
+        label: Built
+        number: '404'
+team:
+    -
+        name: 'David Harper'
+        role: 'General Manager'
+        image:
+            'theme://media/images/Daryl-768x1024.webp':
+                name: Daryl-768x1024.webp
+                type: image/webp
+                size: 68874
+                path: 'theme://media/images/Daryl-768x1024.webp'
+    -
+        name: 'Sunil Deokar'
+        role: 'Contracts Manager'
+        image:
+            'theme://media/images/urbanWhatsApp-Image-2024-02-19-at-15.00.04-768x1024.webp':
+                name: urbanWhatsApp-Image-2024-02-19-at-15.00.04-768x1024.webp
+                type: image/webp
+                size: 46160
+                path: 'theme://media/images/urbanWhatsApp-Image-2024-02-19-at-15.00.04-768x1024.webp'
+    -
+        name: 'Madiha Zafar'
+        role: 'HR Manager'
+        image:
+            'theme://media/images/madiha-768x1024.webp':
+                name: madiha-768x1024.webp
+                type: image/webp
+                size: 105322
+                path: 'theme://media/images/madiha-768x1024.webp'
+    -
+        name: 'Sunil Nair'
+        role: 'Operations Manager'
+        image:
+            'theme://media/images/nair-768x1024.webp':
+                name: nair-768x1024.webp
+                type: image/webp
+                size: 39224
+                path: 'theme://media/images/nair-768x1024.webp'
+    -
+        name: 'Kenneth Seraspi'
+        role: 'Design Manager'
+        image:
+            'theme://media/images/kenneth-768x1024.webp':
+                name: kenneth-768x1024.webp
+                type: image/webp
+                size: 85856
+                path: 'theme://media/images/kenneth-768x1024.webp'
+    -
+        name: 'Mohammad Tahir'
+        role: 'Maintenance Manager'
+        image:
+            'theme://media/images/tahir-768x1024.webp':
+                name: tahir-768x1024.webp
+                type: image/webp
+                size: 107212
+                path: 'theme://media/images/tahir-768x1024.webp'
+    -
+        name: 'Nuthan Shetty'
+        role: 'Accounts Manager'
+        image:
+            'theme://media/images/nuthan-768x1024.webp':
+                name: nuthan-768x1024.webp
+                type: image/webp
+                size: 87894
+                path: 'theme://media/images/nuthan-768x1024.webp'
+    -
+        name: 'Pran Raj'
+        role: 'Estimation Manager'
+        image:
+            'theme://media/images/pran-768x1024.webp':
+                name: pran-768x1024.webp
+                type: image/webp
+                size: 90770
+                path: 'theme://media/images/pran-768x1024.webp'
+    -
+        name: 'Ramanathan M'
+        role: 'QS Manager'
+        image:
+            'theme://media/images/ram-768x1024.webp':
+                name: ram-768x1024.webp
+                type: image/webp
+                size: 54594
+                path: 'theme://media/images/ram-768x1024.webp'
+    -
+        name: 'Daryl Justine'
+        role: 'Senior Landscape Architect'
+        image:
+            'theme://media/images/justine-768x1024.webp':
+                name: justine-768x1024.webp
+                type: image/webp
+                size: 76772
+                path: 'theme://media/images/justine-768x1024.webp'
+certificates:
+    -
+        image:
+            'theme://media/images/QMS-URBAN-LANDSCAPING-KAQM202405001-724x1024.webp':
+                name: QMS-URBAN-LANDSCAPING-KAQM202405001-724x1024.webp
+                type: image/webp
+                size: 63816
+                path: 'theme://media/images/QMS-URBAN-LANDSCAPING-KAQM202405001-724x1024.webp'
+    -
+        image:
+            'theme://media/images/EMS-URBAN-LANDSCAPING-KAEM202405001-724x1024.webp':
+                name: EMS-URBAN-LANDSCAPING-KAEM202405001-724x1024.webp
+                type: image/webp
+                size: 63892
+                path: 'theme://media/images/EMS-URBAN-LANDSCAPING-KAEM202405001-724x1024.webp'
+    -
+        image:
+            'theme://media/images/OHS-URBAN-LANDSCAPING-KAOH202405001-724x1024.webp':
+                name: OHS-URBAN-LANDSCAPING-KAOH202405001-724x1024.webp
+                type: image/webp
+                size: 64694
+                path: 'theme://media/images/OHS-URBAN-LANDSCAPING-KAOH202405001-724x1024.webp'";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:8:"about-us";s:11:"storage_key";s:11:"03.about-us";s:8:"template";s:8:"about-us";s:17:"storage_timestamp";i:1750767274;s:8:"markdown";a:1:{s:0:"";a:1:{s:8:"about-us";i:1750767274;}}s:8:"checksum";s:32:"88747a848df070a8715ad2c14136c08c";}}

@@ -1,0 +1,14 @@
+1750789907
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:10:"contact-us";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:8:{s:5:"title";s:10:"Contact Us";s:10:"page_title";s:19:"Contact - Highlands";s:13:"contact_image";a:1:{s:71:"theme://media/images/urbanUrban-Landscapes-Emirates-Hills-E170-198.webp";a:4:{s:4:"name";s:50:"urbanUrban-Landscapes-Emirates-Hills-E170-198.webp";s:4:"type";s:10:"image/webp";s:4:"size";i:312586;s:4:"path";s:71:"theme://media/images/urbanUrban-Landscapes-Emirates-Hills-E170-198.webp";}}s:5:"email";s:17:"info@urbanuae.com";s:12:"phone_number";s:15:"+971 4 491 3111";s:7:"address";s:56:"Office 112, Al Joud Centre Al Quoz, Dubai, PO Box 213690";s:14:"instagram_link";s:26:"https://www.instagram.com/";s:13:"linkedin_link";s:25:"https://www.linkedin.com/";}s:11:"frontmatter";s:559:"title: 'Contact Us'
+page_title: 'Contact - Highlands'
+contact_image:
+    'theme://media/images/urbanUrban-Landscapes-Emirates-Hills-E170-198.webp':
+        name: urbanUrban-Landscapes-Emirates-Hills-E170-198.webp
+        type: image/webp
+        size: 312586
+        path: 'theme://media/images/urbanUrban-Landscapes-Emirates-Hills-E170-198.webp'
+email: info@urbanuae.com
+phone_number: '+971 4 491 3111'
+address: 'Office 112, Al Joud Centre Al Quoz, Dubai, PO Box 213690'
+instagram_link: 'https://www.instagram.com/'
+linkedin_link: 'https://www.linkedin.com/'";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:10:"contact-us";s:11:"storage_key";s:13:"07.contact-us";s:8:"template";s:7:"contact";s:17:"storage_timestamp";i:1750783139;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"contact";i:1750783139;}}s:8:"checksum";s:32:"cfecea0ad71826a329041b41c72e2a1a";}}

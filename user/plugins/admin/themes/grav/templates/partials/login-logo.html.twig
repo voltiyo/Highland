@@ -1,0 +1,10 @@
+{% if config.plugins.admin.logo_text %}
+    <h1 class="text-logo">
+        {{ config.plugins.admin.logo_text }}
+    </h1>
+{% else %}
+    <h1 class="{{ custom_login_logo ? 'custom-logo' : 'default-logo' }}">
+        {{ title }}
+        <img src="{{ base_url_absolute }}/{{ theme_url }}/images/favicon.png" title="Login" />
+    </h1>
+{% endif %}

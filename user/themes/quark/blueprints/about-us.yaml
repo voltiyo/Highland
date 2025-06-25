@@ -1,0 +1,91 @@
+title: About Page
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+      fields:
+        details:
+          type: tab
+          title: Page Settings
+
+          fields:
+            section1:
+              type: section
+              title: Page Settings
+              underline: true
+            header.page_title:
+              type: text
+              label: Page Title
+        content:
+          type: tab
+          title: Content
+
+          fields:
+            header.mainImage:
+              type: file
+              label: Main Image
+              accept:
+                - "image/*"
+              multiple: false
+              destination: 'theme://media/images'
+            header.paragraphs:
+              label: paragraphs
+              type: list
+              fields:
+                .text:
+                  type: textarea
+                  rows: 4
+                  label: paragraph
+                .bold:
+                  type: toggle
+                  label: bold
+                  highlight: 1
+                  default: 1
+                  options:
+                    0: Yes
+                    1: No
+                  validate:
+                    type: bool
+            header.counters:
+              label: counters
+              type: list
+              fields:
+                .label:
+                  type: text
+                  rows: 4
+                  label: label
+                .number:
+                  type: text
+                  label: number
+            header.team:
+              label: team members
+              type: list
+              fields:
+                .image:
+                  type: file
+                  label: Image
+                  accept: 
+                    - "image/*"
+                  multiple: false
+                  destination: 'theme://media/images'
+                .name:
+                  type: text
+                  label: Full Name
+                .role:
+                  type: text
+                  label: Role
+            header.certificates:
+              label: Certificates
+              type: list
+              fields:
+                .image:
+                  type: file
+                  label: Certificate
+                  multiple: false
+                  destination: 'theme://media/images'
+                  accept:
+                    - "image/*"
+
+              

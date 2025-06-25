@@ -1,0 +1,55 @@
+1750789885
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:4:"home";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:6:{s:5:"title";s:4:"Home";s:10:"page_title";s:9:"Highlands";s:15:"carousel_images";a:6:{i:0;a:1:{s:5:"image";a:1:{s:31:"theme://media/images/image1.jpg";a:4:{s:4:"name";s:10:"image1.jpg";s:4:"type";s:10:"image/jpeg";s:4:"size";i:86096;s:4:"path";s:31:"theme://media/images/image1.jpg";}}}i:1;a:1:{s:5:"image";a:1:{s:31:"theme://media/images/image2.jpg";a:4:{s:4:"name";s:10:"image2.jpg";s:4:"type";s:10:"image/jpeg";s:4:"size";i:184829;s:4:"path";s:31:"theme://media/images/image2.jpg";}}}i:2;a:1:{s:5:"image";a:1:{s:31:"theme://media/images/image3.jpg";a:4:{s:4:"name";s:10:"image3.jpg";s:4:"type";s:10:"image/jpeg";s:4:"size";i:286693;s:4:"path";s:31:"theme://media/images/image3.jpg";}}}i:3;a:1:{s:5:"image";a:1:{s:31:"theme://media/images/image4.jpg";a:4:{s:4:"name";s:10:"image4.jpg";s:4:"type";s:10:"image/jpeg";s:4:"size";i:140173;s:4:"path";s:31:"theme://media/images/image4.jpg";}}}i:4;a:1:{s:5:"image";a:1:{s:31:"theme://media/images/image5.jpg";a:4:{s:4:"name";s:10:"image5.jpg";s:4:"type";s:10:"image/jpeg";s:4:"size";i:231754;s:4:"path";s:31:"theme://media/images/image5.jpg";}}}i:5;a:1:{s:5:"image";a:1:{s:31:"theme://media/images/image6.jpg";a:4:{s:4:"name";s:10:"image6.jpg";s:4:"type";s:10:"image/jpeg";s:4:"size";i:199811;s:4:"path";s:31:"theme://media/images/image6.jpg";}}}}s:9:"MainTitle";s:32:"PREMIUM LANDSCAPING IN UAE & GCC";s:17:"description_title";s:29:" Our passion delivers results";s:22:"description_paragraphs";a:3:{i:0;a:1:{s:4:"text";s:118:"At Urban Landscapes, we pride ourselves on delivering premium landscape solutions to clients across Dubai and the UAE.";}i:1;a:1:{s:4:"text";s:165:"Passion for designing and building inspiring garden spaces, and commitment towards delivering results to our customers is at the heart of who we are, and what we do.";}i:2;a:1:{s:4:"text";s:146:"Our extensive portfolio demonstrates our ability to work with a variety of styles, whilst creating beautiful yet functional outdoor living spaces.";}}}s:11:"frontmatter";s:1982:"title: Home
+page_title: Highlands
+carousel_images:
+    -
+        image:
+            'theme://media/images/image1.jpg':
+                name: image1.jpg
+                type: image/jpeg
+                size: 86096
+                path: 'theme://media/images/image1.jpg'
+    -
+        image:
+            'theme://media/images/image2.jpg':
+                name: image2.jpg
+                type: image/jpeg
+                size: 184829
+                path: 'theme://media/images/image2.jpg'
+    -
+        image:
+            'theme://media/images/image3.jpg':
+                name: image3.jpg
+                type: image/jpeg
+                size: 286693
+                path: 'theme://media/images/image3.jpg'
+    -
+        image:
+            'theme://media/images/image4.jpg':
+                name: image4.jpg
+                type: image/jpeg
+                size: 140173
+                path: 'theme://media/images/image4.jpg'
+    -
+        image:
+            'theme://media/images/image5.jpg':
+                name: image5.jpg
+                type: image/jpeg
+                size: 231754
+                path: 'theme://media/images/image5.jpg'
+    -
+        image:
+            'theme://media/images/image6.jpg':
+                name: image6.jpg
+                type: image/jpeg
+                size: 199811
+                path: 'theme://media/images/image6.jpg'
+MainTitle: 'PREMIUM LANDSCAPING IN UAE & GCC'
+description_title: ' Our passion delivers results'
+description_paragraphs:
+    -
+        text: 'At Urban Landscapes, we pride ourselves on delivering premium landscape solutions to clients across Dubai and the UAE.'
+    -
+        text: 'Passion for designing and building inspiring garden spaces, and commitment towards delivering results to our customers is at the heart of who we are, and what we do.'
+    -
+        text: 'Our extensive portfolio demonstrates our ability to work with a variety of styles, whilst creating beautiful yet functional outdoor living spaces.'";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:4:"home";s:11:"storage_key";s:7:"02.home";s:8:"template";s:4:"home";s:17:"storage_timestamp";i:1750784332;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"home";i:1750784332;}}s:8:"checksum";s:32:"ff48348f21a45b3053802bb820e2b7c7";}}

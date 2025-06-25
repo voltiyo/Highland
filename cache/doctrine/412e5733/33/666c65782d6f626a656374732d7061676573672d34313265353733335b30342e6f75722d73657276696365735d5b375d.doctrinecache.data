@@ -1,0 +1,131 @@
+1750849117
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:12:"our-services";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:8:{s:5:"title";s:12:"Our Services";s:8:"routable";b:1;s:10:"page_title";s:24:"Our Services - Highlands";s:14:"services_image";a:1:{s:44:"theme://media/images/urbanUrban-KAT-205.webp";a:4:{s:4:"name";s:23:"urbanUrban-KAT-205.webp";s:4:"type";s:10:"image/webp";s:4:"size";i:600610;s:4:"path";s:44:"theme://media/images/urbanUrban-KAT-205.webp";}}s:8:"services";a:6:{i:0;a:3:{s:5:"title";s:39:" LANDSCAPE ARCHITECTURE & GARDEN DESIGN";s:20:"service_sub_services";a:5:{i:0;a:1:{s:11:"sub_service";s:18:"Streetscape design";}i:1;a:1:{s:11:"sub_service";s:31:"Community development landscape";}i:2;a:1:{s:11:"sub_service";s:24:"Private homes and Villas";}i:3;a:1:{s:11:"sub_service";s:17:"Commercial spaces";}i:4;a:1:{s:11:"sub_service";s:20:"Ai integrated design";}}s:4:"icon";a:1:{s:62:"theme://media/images/landscaping-Urban-Landscapes-Services.png";a:4:{s:4:"name";s:41:"landscaping-Urban-Landscapes-Services.png";s:4:"type";s:9:"image/png";s:4:"size";i:1598;s:4:"path";s:62:"theme://media/images/landscaping-Urban-Landscapes-Services.png";}}}i:1;a:3:{s:5:"title";s:40:"IRRIGATION DESIGN, SUPPLY & INSTALLATION";s:20:"service_sub_services";a:2:{i:0;a:1:{s:11:"sub_service";s:38:"Irrigation strategy and network design";}i:1;a:1:{s:11:"sub_service";s:43:"Supply and installation of irrigation lines";}}s:4:"icon";a:1:{s:61:"theme://media/images/irrigation-Urban-Landscapes-Services.png";a:4:{s:4:"name";s:40:"irrigation-Urban-Landscapes-Services.png";s:4:"type";s:9:"image/png";s:4:"size";i:1735;s:4:"path";s:61:"theme://media/images/irrigation-Urban-Landscapes-Services.png";}}}i:2;a:3:{s:5:"title";s:23:" LANDSCAPE CONSTRUCTION";s:20:"service_sub_services";a:2:{i:0;a:1:{s:11:"sub_service";s:39:"Hardscape construction and installation";}i:1;a:1:{s:11:"sub_service";s:38:"Softscape procurement and installation";}}s:4:"icon";a:1:{s:75:"theme://media/images/landscaping-construction-Urban-Landscapes-Services.png";a:4:{s:4:"name";s:54:"landscaping-construction-Urban-Landscapes-Services.png";s:4:"type";s:9:"image/png";s:4:"size";i:1579;s:4:"path";s:75:"theme://media/images/landscaping-construction-Urban-Landscapes-Services.png";}}}i:3;a:3:{s:5:"title";s:32:"POOL AND LAKE SYSTEM SPECIALISTS";s:20:"service_sub_services";a:4:{i:0;a:1:{s:11:"sub_service";s:28:"Pool design and construction";}i:1;a:1:{s:11:"sub_service";s:37:"Water feature design and construction";}i:2;a:1:{s:11:"sub_service";s:38:"Lake and river design and construction";}i:3;a:1:{s:11:"sub_service";s:32:"Koi pond design and construction";}}s:4:"icon";a:1:{s:61:"theme://media/images/lake-river-Urban-Landscapes-Services.png";a:4:{s:4:"name";s:40:"lake-river-Urban-Landscapes-Services.png";s:4:"type";s:9:"image/png";s:4:"size";i:1571;s:4:"path";s:61:"theme://media/images/lake-river-Urban-Landscapes-Services.png";}}}i:4;a:3:{s:5:"title";s:22:" LANDSCAPE MAINTENANCE";s:20:"service_sub_services";a:4:{i:0;a:1:{s:11:"sub_service";s:55:"Maintenance services available for community landscapes";}i:1;a:1:{s:11:"sub_service";s:15:"Private gardens";}i:2;a:1:{s:11:"sub_service";s:13:"Public spaces";}i:3;a:1:{s:11:"sub_service";s:17:"Commercial spaces";}}s:4:"icon";a:1:{s:62:"theme://media/images/maintenance-Urban-Landscapes-Services.png";a:4:{s:4:"name";s:41:"maintenance-Urban-Landscapes-Services.png";s:4:"type";s:9:"image/png";s:4:"size";i:1721;s:4:"path";s:62:"theme://media/images/maintenance-Urban-Landscapes-Services.png";}}}i:5;a:3:{s:5:"title";s:29:"PRODUCT AGENCY & DISTRIBUTION";s:20:"service_sub_services";a:5:{i:0;a:1:{s:11:"sub_service";s:38:"Virobuild - Sustainable thatch roofing";}i:1;a:1:{s:11:"sub_service";s:19:"Anjon manufacturing";}i:2;a:1:{s:11:"sub_service";s:29:"Club cars - Trading & Leasing";}i:3;a:1:{s:11:"sub_service";s:52:"Landscape construction equipment - Trading & Leasing";}i:4;a:1:{s:11:"sub_service";s:30:"Street furniture & accessories";}}s:4:"icon";a:1:{s:65:"theme://media/images/product-agency-Urban-Landscapes-Services.png";a:4:{s:4:"name";s:44:"product-agency-Urban-Landscapes-Services.png";s:4:"type";s:9:"image/png";s:4:"size";i:1517;s:4:"path";s:65:"theme://media/images/product-agency-Urban-Landscapes-Services.png";}}}}s:21:"services_second_image";a:1:{s:52:"theme://media/images/ummseqUrban-Umm-Suqeim-172.webp";a:4:{s:4:"name";s:31:"ummseqUrban-Umm-Suqeim-172.webp";s:4:"type";s:10:"image/webp";s:4:"size";i:330878;s:4:"path";s:52:"theme://media/images/ummseqUrban-Umm-Suqeim-172.webp";}}s:20:"services_description";s:234:"With long lasting relationships, Urban Landscapes has built an agency for world class products we believe in. We currently have the agency for the below brands. Contact us to learn more about the range of products under our portfolio.";s:8:"products";a:7:{i:0;a:1:{s:4:"text";s:50:"VIROBUILD - OUR SUSTAINABLE THATCH ROOFING PARTNER";}i:1;a:1:{s:4:"text";s:68:"ANJON MANUFACTURING - OUR EPDM LINER PRODUCT AND LAKE & POND PARTNER";}i:2;a:1:{s:4:"text";s:8:"AGRONOMY";}i:3;a:1:{s:4:"text";s:28:"CLUB CAR - TRADING & LEASING";}i:4;a:1:{s:4:"text";s:30:"STREET FURNITURE & ACCESSORIES";}i:5;a:1:{s:4:"text";s:53:"STREETSCAPE AND COMMUNITY DEVELOPMENTLANDSCAPE DESIGN";}i:6;a:1:{s:4:"text";s:54:"LANDSCAPE CONSTRUCTION EQUIPMENT - TRADING & LEASING .";}}}s:11:"frontmatter";s:5307:"title: 'Our Services'
+routable: true
+page_title: 'Our Services - Highlands'
+services_image:
+    'theme://media/images/urbanUrban-KAT-205.webp':
+        name: urbanUrban-KAT-205.webp
+        type: image/webp
+        size: 600610
+        path: 'theme://media/images/urbanUrban-KAT-205.webp'
+services:
+    -
+        title: ' LANDSCAPE ARCHITECTURE & GARDEN DESIGN'
+        service_sub_services:
+            -
+                sub_service: 'Streetscape design'
+            -
+                sub_service: 'Community development landscape'
+            -
+                sub_service: 'Private homes and Villas'
+            -
+                sub_service: 'Commercial spaces'
+            -
+                sub_service: 'Ai integrated design'
+        icon:
+            'theme://media/images/landscaping-Urban-Landscapes-Services.png':
+                name: landscaping-Urban-Landscapes-Services.png
+                type: image/png
+                size: 1598
+                path: 'theme://media/images/landscaping-Urban-Landscapes-Services.png'
+    -
+        title: 'IRRIGATION DESIGN, SUPPLY & INSTALLATION'
+        service_sub_services:
+            -
+                sub_service: 'Irrigation strategy and network design'
+            -
+                sub_service: 'Supply and installation of irrigation lines'
+        icon:
+            'theme://media/images/irrigation-Urban-Landscapes-Services.png':
+                name: irrigation-Urban-Landscapes-Services.png
+                type: image/png
+                size: 1735
+                path: 'theme://media/images/irrigation-Urban-Landscapes-Services.png'
+    -
+        title: ' LANDSCAPE CONSTRUCTION'
+        service_sub_services:
+            -
+                sub_service: 'Hardscape construction and installation'
+            -
+                sub_service: 'Softscape procurement and installation'
+        icon:
+            'theme://media/images/landscaping-construction-Urban-Landscapes-Services.png':
+                name: landscaping-construction-Urban-Landscapes-Services.png
+                type: image/png
+                size: 1579
+                path: 'theme://media/images/landscaping-construction-Urban-Landscapes-Services.png'
+    -
+        title: 'POOL AND LAKE SYSTEM SPECIALISTS'
+        service_sub_services:
+            -
+                sub_service: 'Pool design and construction'
+            -
+                sub_service: 'Water feature design and construction'
+            -
+                sub_service: 'Lake and river design and construction'
+            -
+                sub_service: 'Koi pond design and construction'
+        icon:
+            'theme://media/images/lake-river-Urban-Landscapes-Services.png':
+                name: lake-river-Urban-Landscapes-Services.png
+                type: image/png
+                size: 1571
+                path: 'theme://media/images/lake-river-Urban-Landscapes-Services.png'
+    -
+        title: ' LANDSCAPE MAINTENANCE'
+        service_sub_services:
+            -
+                sub_service: 'Maintenance services available for community landscapes'
+            -
+                sub_service: 'Private gardens'
+            -
+                sub_service: 'Public spaces'
+            -
+                sub_service: 'Commercial spaces'
+        icon:
+            'theme://media/images/maintenance-Urban-Landscapes-Services.png':
+                name: maintenance-Urban-Landscapes-Services.png
+                type: image/png
+                size: 1721
+                path: 'theme://media/images/maintenance-Urban-Landscapes-Services.png'
+    -
+        title: 'PRODUCT AGENCY & DISTRIBUTION'
+        service_sub_services:
+            -
+                sub_service: 'Virobuild - Sustainable thatch roofing'
+            -
+                sub_service: 'Anjon manufacturing'
+            -
+                sub_service: 'Club cars - Trading & Leasing'
+            -
+                sub_service: 'Landscape construction equipment - Trading & Leasing'
+            -
+                sub_service: 'Street furniture & accessories'
+        icon:
+            'theme://media/images/product-agency-Urban-Landscapes-Services.png':
+                name: product-agency-Urban-Landscapes-Services.png
+                type: image/png
+                size: 1517
+                path: 'theme://media/images/product-agency-Urban-Landscapes-Services.png'
+services_second_image:
+    'theme://media/images/ummseqUrban-Umm-Suqeim-172.webp':
+        name: ummseqUrban-Umm-Suqeim-172.webp
+        type: image/webp
+        size: 330878
+        path: 'theme://media/images/ummseqUrban-Umm-Suqeim-172.webp'
+services_description: 'With long lasting relationships, Urban Landscapes has built an agency for world class products we believe in. We currently have the agency for the below brands. Contact us to learn more about the range of products under our portfolio.'
+products:
+    -
+        text: 'VIROBUILD - OUR SUSTAINABLE THATCH ROOFING PARTNER'
+    -
+        text: 'ANJON MANUFACTURING - OUR EPDM LINER PRODUCT AND LAKE & POND PARTNER'
+    -
+        text: AGRONOMY
+    -
+        text: 'CLUB CAR - TRADING & LEASING'
+    -
+        text: 'STREET FURNITURE & ACCESSORIES'
+    -
+        text: 'STREETSCAPE AND COMMUNITY DEVELOPMENTLANDSCAPE DESIGN'
+    -
+        text: 'LANDSCAPE CONSTRUCTION EQUIPMENT - TRADING & LEASING .'";s:8:"markdown";s:12:"Our Services";}s:7:"storage";a:6:{s:3:"key";s:12:"our-services";s:11:"storage_key";s:15:"04.our-services";s:8:"template";s:12:"our-services";s:17:"storage_timestamp";i:1750789268;s:8:"markdown";a:1:{s:0:"";a:1:{s:12:"our-services";i:1750769865;}}s:8:"checksum";s:32:"0d437e89f7e47763a1e0d9fd3bc49f40";}}

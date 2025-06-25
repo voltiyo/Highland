@@ -1,0 +1,71 @@
+title: Services Page
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+      fields:
+        details:
+          type: tab
+          title: Page Settings
+
+          fields:
+            section1:
+              type: section
+              title: Page Settings
+              underline: true
+            header.page_title:
+              type: text
+              label: Page Title
+        content:
+          type: tab
+          title: Content
+
+          fields:
+            header.services_image:
+              type: file
+              label: Services First Image
+              multiple: false
+              destination: 'theme://media/images'
+              accept:
+                - 'image/*'
+            header.services:
+              type: list
+              label: Services
+              fields:
+                .icon:
+                  type: file
+                  label: Service Icon
+                  multiple: false
+                  destination: 'theme://media/images'
+                  accept:
+                    - 'image/*'
+                .title:
+                  type: text
+                  label: service title
+                .service_sub_services:
+                  type: list
+                  label: Sub Services
+                  fields:
+                    .sub_service:
+                      type: text
+                      label: Sub Service
+            header.services_second_image:
+              type: file
+              label: Services Second Image
+              multiple: false
+              destination: 'theme://media/images'
+              accept:
+                - 'image/*'
+            header.services_description:
+              type: textarea
+              rows: 4
+              label: Description
+            header.products:
+              type: list
+              label: Products
+              fields:
+                .text:
+                  type: text
+                  label: Product
